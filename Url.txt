@@ -1,7 +1,10 @@
-[
-    {
-        "store": "https://roboter4care.de", 
-         "youtube": "https://stackoverflow.com"
-    
+{
+    "genie": {
+        "store": "https://roboter4care.de",
+        "YouTube": "https://example.com"
+    },
+    "Becker": {
+        "first": "https://roboter4care.de",
+        "second": "https://example.com"
     }
-]
+}
