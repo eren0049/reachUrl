@@ -1,1 +1,1 @@
-https://roboter4care.de
+{"store":https://roboter4care.de}
