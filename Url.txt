@@ -1,10 +1,16 @@
 {
     "genie": {
-        "store": "https://roboter4care.de",
-        "YouTube": "https://example.com"
+        "first": "https://roboter4care.de",
+        "second": "https://www.google.com",
+        "third": "https://www.wuppertal.de",
+        "fourth": "https://www.uefa.com/euro2024/",
+        "fifth": "https://www.wetter.de/wetter/r/62478"
     },
     "Becker": {
-        "first": "https://roboter4care.de",
-        "second": "https://example.com"
+         "first": "https://roboter4care.de",
+        "second": "https://www.google.com",
+        "third": "https://www.wuppertal.de",
+        "fourth": "https://www.uefa.com/euro2024/",
+        "fifth": "https://www.wetter.de/wetter/r/62478"
     }
 }
