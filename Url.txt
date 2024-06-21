@@ -1,5 +1,7 @@
 [
     {
-        "store": "https://roboter4care.de"
+        "store": "https://roboter4care.de", 
+         "youtube": "https://youtube.com"
+    
     }
 ]
