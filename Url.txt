@@ -3,4 +3,3 @@
         "store": "https://roboter4care.de"
     }
 ]
-
