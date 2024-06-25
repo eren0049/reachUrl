@@ -11,6 +11,6 @@
         "second": "https://www.google.com",
         "third": "https://www.wuppertal.de",
         "fourth": "https://www.uefa.com/euro2024/",
-        "fifth": "https://www.wetter.de/wetter/r/62478"
+        "fifth": "https://app.guide3d.com/100160/mobile/?project=100160&start=L03P2008&mode=M0000&language=de"
     }
 }
