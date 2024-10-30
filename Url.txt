@@ -12,5 +12,11 @@
         "third": "https://www.wuppertal.de",
         "fourth": "https://www.uefa.com/euro2024/",
         "fifth": "https://app.guide3d.com/100160/mobile/?project=100160&start=L03P2008&mode=M0000&language=de"
+    },"Umfrage": {
+        "first": "Haben Sie die Erklärungen und Geschichten des Tourguides genossen?",
+        "second": "War das Layout des Museums leicht zu folgen?",
+        "third": "Hat die Tour genug Zeit für jedes Exponat geboten?",
+        "fourth": "War das Museumspersonal hilfsbereit und freundlich?",
+        "fifth": "Haben die interaktiven Displays Ihren Besuch bereichert?"
     }
 }
